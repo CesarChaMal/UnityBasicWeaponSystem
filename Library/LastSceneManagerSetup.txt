@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UltraReal/WeaponSystem/Scenes/BasicDemo/BasicWeaponSystemDemo.unity
+  isLoaded: 1
+  isActive: 1
